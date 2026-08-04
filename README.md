@@ -140,7 +140,7 @@ This project demonstrates how Power BI can be used to:
 
 **Aditya Jedhe**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/adj18062004
 
 ---
 
