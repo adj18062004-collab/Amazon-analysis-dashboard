@@ -89,7 +89,8 @@ Amazon-Sales-Analytics/
 
 > Add screenshots of your dashboard here.
 
-pb1.png
+<img width="578" height="325" alt="image" src="https://github.com/user-attachments/assets/d45ba3b0-5afa-4c56-a906-315919a55042" />
+
 
 ```
 
