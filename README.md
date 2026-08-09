@@ -89,13 +89,9 @@ Amazon-Sales-Analytics/
 
 > Add screenshots of your dashboard here.
 
-Example:
+pb1.png
 
 ```
-images/da<img width="957" height="537" alt="image" src="https://github.com/user-attachments/assets/29276a7a-e9b4-448b-bf48-e563ed18d611" />
-shboard-overview.png
-images/sales-analysis.png
-![Uploading image.png…]()
 
 ```
 
